@@ -1,0 +1,2 @@
+# APPLYIQ
+ApplyIQ is an AI system that automates job applications by parsing resumes/job descriptions, using semantic matching for accurate job-candidate alignment, and generating personalized resumes. It includes ethical auto-submissions. Experiments show it outperforms keyword methods, cutting time while boosting relevance and shortlisting success.
