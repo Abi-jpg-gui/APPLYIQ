@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Python Developer",
+    "company": "Google",
+    "description": "Looking for Python, ML, APIs",
+    "link": "https://indeed.com/job/python-dev-1"
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Amazon",
+    "description": "React, UI/UX, JavaScript",
+    "link": "https://indeed.com/job/frontend-2"
+  }
+]
